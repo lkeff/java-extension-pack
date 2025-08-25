@@ -136,7 +136,7 @@
 		"compare-versions": "6.x",
 		"decompress": "4.x",
 		"glob": "11.0.3",
-		"jdk-utils": "0.x",
+		"jdk-utils": "0.6.0",
 		"lodash": "4.x"
 	},
 	"volta": {
